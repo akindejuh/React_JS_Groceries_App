@@ -1,0 +1,40 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "available": true,
+            "item": "Bread",
+            "price": 10
+        },
+        {
+            "id": 2,
+            "available": true,
+            "item": "Chicken",
+            "price": 200
+        },
+        {
+            "id": 3,
+            "available": false,
+            "item": "Sugar",
+            "price": 2
+        },
+        {
+            "id": 4,
+            "available": true,
+            "item": "Milk",
+            "price": 5
+        },
+        {
+            "id": 5,
+            "available": false,
+            "item": "Egg",
+            "price": 3
+        },
+        {
+            "id": 6,
+            "available": true,
+            "item": "Bread",
+            "price": 10
+        }
+    ]
+}
